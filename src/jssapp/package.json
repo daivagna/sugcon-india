@@ -1,10 +1,10 @@
 {
-  "name": "sxastarter",
+  "name": "blogger",
   "description": "Application utilizing Sitecore JavaScript Services and Next.js",
   "version": "21.2.0",
   "private": true,
   "config": {
-    "appName": "sxastarter",
+    "appName": "blogger",
     "rootPlaceholders": [
       "jss-main"
     ],
