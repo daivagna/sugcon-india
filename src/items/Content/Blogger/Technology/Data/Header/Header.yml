@@ -1,0 +1,34 @@
+﻿---
+ID: "e858ff23-846e-4f8a-a5be-40f562836ca3"
+Parent: "dcc834a5-c335-46f4-b4ad-596347d978cb"
+Template: "52fd77d0-6fba-46c2-884e-4f077be271d1"
+Path: /sitecore/content/Blogger/Technology/Data/Header/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "040b148c-7874-4f10-ab41-eac34da5afcd"
+      Hint: logo
+      Value: |
+        <image mediaid="{B992458B-DB51-47CF-937D-0E0CBD133390}" alt="hamburger" height="5050" width="5050" hspace="" vspace="" />
+    - ID: "11bffb28-fc67-419b-a584-c82eee6c4985"
+      Hint: CenterTitle
+      Value: Daivagna Technology Blogs
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231011T115125Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8c057c6-324c-4958-9c8e-d96d18691c0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dnanavati@horizontal.com
+    - ID: "d6237abe-7097-4f7b-ba0a-23b23469ad74"
+      Hint: ContactUsImage
+      Value: |
+        <image mediaid="{2817285A-CDA0-479B-8017-103562899B22}" alt="mail icon" height="50" width="50" hspace="" vspace="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T123400Z

@@ -1,0 +1,36 @@
+﻿---
+ID: "379736b4-61e4-48d3-92f9-063c271fe043"
+Parent: "d5342f6a-6567-4f32-a03e-c4f625811a39"
+Template: "5bc0bb79-9faa-4ae8-832a-6de3be7c563f"
+Path: "/sitecore/content/Blogger/Technology/Data/Hero Banners/Home Page - Fashion"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1c2835b3-338d-43a2-a41b-33f0872ca9a1"
+      Hint: Description
+      Value: We strongly believe that always go for style and not for fashion, because fashion might change tomorrow but style is permeant 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231011T120438Z
+    - ID: "4612574b-0901-4744-873b-596f225ac375"
+      Hint: CenterTitle
+      Value: A taste of every lifestyle
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1a753313-3b40-41b3-b5ef-77b951d51c4d"
+    - ID: "a4198d4d-2cc8-4a53-9acd-71048ca2fbb9"
+      Hint: cta text
+      Value: Explore more
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dnanavati@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T120824Z
+    - ID: "f8d12f68-71a9-4671-be0d-2ebefe40eab1"
+      Hint: BackdropImage
+      Value: |
+        <image mediaid="{6933DB5C-8C93-4D3F-A229-AC5ED95A6E52}" />

@@ -1,0 +1,12 @@
+{
+  "namespace": "Blogger.Foundation.items",
+  "items": {
+    "includes": [
+      {
+        "name": "Templates-Foundation",
+        "path": "/sitecore/templates/Foundation/Blogger",
+        "database": "master"
+      }
+    ]
+  }
+}

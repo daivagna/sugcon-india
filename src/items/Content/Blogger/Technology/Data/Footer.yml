@@ -1,0 +1,35 @@
+﻿---
+ID: "c08c19ba-931a-4a2d-b4ec-d30de558d3ca"
+Parent: "0b432a4c-75da-471b-8de6-7eef7b05c7c3"
+Template: "e464b496-d9d2-4249-9c16-6e7d7b7a8169"
+Path: /sitecore/content/Blogger/Technology/Data/Footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01e26778-573f-4aa5-ac0b-8e15006205f9"
+      Hint: logo
+      Value: |
+        <image mediaid="{392898E1-B03F-4DA5-A184-4F99266DBDE0}" />
+    - ID: "0a321a2c-91b3-4aa6-a55e-13edbba42c50"
+      Hint: copyrightText
+      Value: @<<year>> all copyrights reserved
+    - ID: "173db1a8-b664-497d-bc30-99cc7e573c9b"
+      Hint: sectionColumns
+      Value: |
+        {205908B2-307A-44F0-AE0E-C4A82993CD5B}
+        {8930A9FA-6DF6-4F20-B5A7-ACA95BCE9DAF}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231011T124849Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e15c825d-91d4-4b84-bb2f-88a5cadbc8af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dnanavati@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T125459Z

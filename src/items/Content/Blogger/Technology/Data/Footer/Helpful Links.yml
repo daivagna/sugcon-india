@@ -1,0 +1,31 @@
+﻿---
+ID: "205908b2-307a-44f0-ae0e-c4a82993cd5b"
+Parent: "c08c19ba-931a-4a2d-b4ec-d30de558d3ca"
+Template: "3a0f48e9-b4f3-4f9a-9c03-b44abed165cb"
+Path: /sitecore/content/Blogger/Technology/Data/Footer/Helpful Links
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231011T125319Z
+    - ID: "6202f760-756f-4456-b2da-b0207abddb00"
+      Hint: pages
+      Value: |
+        {630BC1C6-C641-4214-A7AE-13E60BE2CDCD}
+        {0FB6B5AF-AFB0-4CB9-8BB4-836328AFFC63}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ee56135f-1e23-4363-9eaa-efa4268eccd8"
+    - ID: "a3024018-86ef-4c33-8173-1b2f099631d6"
+      Hint: sectionTitle
+      Value: Helpful Links
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dnanavati@horizontal.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231011T125330Z

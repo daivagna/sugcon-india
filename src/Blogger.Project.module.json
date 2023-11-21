@@ -1,0 +1,37 @@
+{
+  "namespace": "Blogger.Project.Items",
+  "items": {
+    "includes": [
+      {
+        "name": "Templates-Project",
+        "path": "/sitecore/templates/Project/Blogger",
+		"allowedPushOperations": "createUpdateAndDelete",
+		"scope": "ItemAndDescendants",
+        "database": "master"
+	    
+      },
+	  {
+        "name": "Renderings-Project",
+        "path": "/sitecore/layout/Renderings/Project/Blogger",
+		"scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master"
+      },
+	  {
+        "name": "Media",
+        "path": "/sitecore/media library/Project/Blogger",
+		"scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master"
+      },
+	  {
+		 "name": "Content",
+		 "path":"/sitecore/content/Blogger",
+		 "database":"master",
+		 "allowedPushOperations": "CreateOnly",
+		 
+	  }
+	  
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "namespace": "Horizontal.Feature.Data",
+  "items": {
+    "includes": [
+      {
+        "name": "Templates-Feature",
+        "path": "/sitecore/templates/Feature/Blogger",
+        "database": "master"
+      },
+	  {
+        "name": "Media-Feature",
+        "path": "/sitecore/media library/Feature/Blogger",
+		"scope": "ItemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master"
+      },
+	  {
+        "name": "Renderings-Feature",
+        "path": "/sitecore/layout/Renderings/Feature/Blogger",
+        "database": "master"
+      }
+    ]
+  }
+}
