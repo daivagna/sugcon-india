@@ -9,7 +9,7 @@ export default function MyBYOCComponent(props) {
     )
   }
   
-  FEAAS.registerComponent(MyComponent, {
+  FEAAS.registerComponent(MyBYOCComponent, {
       name: 'MyBYOCComponent',
       description: 'Description of MyComponent.',
       required: [ /* any required props */ ],
