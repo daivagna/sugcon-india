@@ -14,10 +14,10 @@ const UsersData = (fields: userCommonProps): JSX.Element => {
 
   return (
     <>
-      <tr key={fields?.id}>
+      <tr key={fields?.id.value}>
         {/* <div>{user.email.value}</div> */}
-        <td>{fields?.firstName}</td>
-        <td>{fields?.lastName}</td>
+        <td>{fields?.firstName.value}</td>
+        <td>{fields?.lastName.value}</td>
       </tr>
     </>
   );
