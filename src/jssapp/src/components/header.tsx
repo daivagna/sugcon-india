@@ -31,9 +31,9 @@ export const Default = (props: HeaderProps): JSX.Element => {
   console.log('props' + JSON.stringify(props));
   //console.log('logo ' + JSON.stringify(props.fields.logo.value));
 
-  const handleClick = async (event: any) => {
+  const handleClick = async () => {
     setIsLoading(true);
-    event.preventDefault();
+    //event?.preventDefault();
     const users = await fetchData();
     setData(users);
     //console.log('data' + users);
@@ -99,7 +99,7 @@ export const Default = (props: HeaderProps): JSX.Element => {
                   })}
                 </tbody>
               </table>
-              <a
+              {/* <a
                 href="/"
                 className="text-3xl inline-block border-b-4 border-transparent hover:border-yellow-900"
               >
@@ -122,7 +122,7 @@ export const Default = (props: HeaderProps): JSX.Element => {
                 className="inline-block border-b-4 border-transparent hover:border-yellow-900"
               >
                 Contact
-              </a>
+              </a> */}
             </div>
             {/* <div className="absolute inset-0 w-full h-full bg-yellow-900 bg-opacity-20"></div> */}
           </div>

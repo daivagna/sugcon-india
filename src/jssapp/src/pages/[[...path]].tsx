@@ -26,7 +26,7 @@ const SitecorePage = ({
     handleEditorFastRefresh();
   }, []);
 
-  console.log("layout data"+JSON.stringify(layoutData));
+  console.log('layout data' + JSON.stringify(layoutData));
 
   if (notFound || !layoutData.sitecore.route) {
     // Shouldn't hit this (as long as 'notFound' is being returned below), but just to be safe
